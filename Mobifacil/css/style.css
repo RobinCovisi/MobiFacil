@@ -1,0 +1,73 @@
+#home {
+    background: #ffc107;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #b3b1b1;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+#home1 {
+    background: rgb(246, 246, 246);
+}
+
+footer{
+    background-color: rgb(48, 48, 48);
+}
+
+
+#img2 {
+    width: 50px;
+    height: 15px;
+}
+
+.text1 {
+    color: rgb(110, 46, 107);
+    margin-left: 23px;
+}
+
+
+.tripCard-slot {
+    max-width: 100%; 
+    overflow-x: auto; 
+    white-space: nowrap; 
+    display: flex; 
+}
+
+
+.trip-card-default {
+    flex: 0 0 auto; 
+    width: 300px; 
+    margin-right: 10px; 
+    font-size: 14px; 
+}
+
+
+.trip-card__header {
+    margin-bottom: 8px; 
+}
+
+
+.trip-card__text {
+    margin-bottom: 4px; 
+}
+
+
+.trip-card-default__content {
+    padding: 10px; 
+}
+
+
+.trip-card__currentPrice {
+    font-size: 16px; 
+    margin-top: 6px; 
+}
+
+li {
+    list-style-type: none;
+}
+
